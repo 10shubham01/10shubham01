@@ -49,7 +49,7 @@ Besides [**Github**](https://github.com/10shubham01/), You can connect with me o
 #### 7: GRAPHIC DESIGN
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![](https://img.shields.io/badge/{Adobe}-{#000}?style=for-the-badge&logo={Adobe}&logoColor=white)
+![](https://img.shields.io/badge/{https://simpleicons.org/icons/adobephotoshop.svg}-{#000}?style=for-the-badge&logo={Adobe}&logoColor=white)
 
 #### 8: MUSIC 
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
