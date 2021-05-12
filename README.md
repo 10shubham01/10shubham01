@@ -8,7 +8,7 @@ Besides [**Github**](https://github.com/10shubham01/), You can connect with me o
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=10shubham01&theme=blood&hide_border=true&ring=DD2727&dates=888888&stroke=888888)](https://git.io/streak-stats)
 
 # SKILLS
-## 1: LANGUAGES 
+#### 1: LANGUAGES 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
