@@ -5,7 +5,7 @@
 
 Besides [**Github**](https://github.com/10shubham01/), You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/Shubhamgupta/). I am always ready to collaborate and currently open to work.
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=10shubham01&theme=blood&hide_border=true&ring=DD2727&dates=888888&stroke=888888)](https://git.io/streak-stats)
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
