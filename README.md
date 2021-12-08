@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/10shubham01) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/10shubham01)
 <br><br>
 
-Besides [**Github**](https://github.com/10shubham01/), You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/Shubhamgupta/). I am always ready to collaborate and currently open to work.
+Besides [**Github**](https://github.com/10shubham01/), You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/shubhamgupta001/). I am always ready to collaborate and currently open to work.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=10shubham01&theme=blood&hide_border=true&ring=DD2727&dates=888888&stroke=888888)](https://git.io/streak-stats)
 
