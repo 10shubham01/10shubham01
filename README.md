@@ -57,11 +57,6 @@ Besides [**Github**](https://github.com/10shubham01/), You can connect with me o
 # MUSIC 
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/15msLVH6gZstdxEhijCp4w?si=rZcOYm0OTYilKEjUQs7cgw&utm_source=copy-link&dl_branch=1&nd=1)
 
-
-<div class="iframe_container">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/E-ONNjFoOx0" frameborder="0" allowfullscreen></iframe>
-</div>
-
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
