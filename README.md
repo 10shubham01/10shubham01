@@ -5,7 +5,7 @@
 
 Besides [**Github**](https://github.com/10shubham01/), You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/shubhamgupta001/). I am always ready to collaborate and currently open to work.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=10shubham01&theme=blood&hide_border=true&ring=DD2727&dates=888888&stroke=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=10shubham01&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 # SKILLS
 #### 1: LANGUAGES 
